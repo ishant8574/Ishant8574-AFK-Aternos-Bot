@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip "ishnt8574.aternos.me"
+    "port": 27228,
     "version": "",
     "try-creative": false
   },
@@ -43,6 +43,7 @@
   },
   "movement": {
     "enabled": true,
+    
     "circle-walk": {
       "enabled": true,
       "radius": 4,

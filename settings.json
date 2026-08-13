@@ -1,4 +1,4 @@
-{
+vv{
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip "ishnt8574.aternos.me"
+    "ip "ishnt8574.aternos.me
     "port": 27228,
     "version": "",
     "try-creative": false

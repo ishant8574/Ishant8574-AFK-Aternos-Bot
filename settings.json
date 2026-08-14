@@ -5,14 +5,14 @@ vv{
     "password": "9818404977"
     "type": "online"
   },
-  "server": {ishant8574.aternos.me
+  "server": {ishant8574-smp.aternos.me
     
     "ip "ishnat8574-smp.aternos.me
     "port": 53343,
     "version": "26.2",
     "try-creative": false
   },
-  "position": {
+  "position": {450.84 67.00 469.83}
     "enabled": true,
     "x": 0,
     "y": 100,

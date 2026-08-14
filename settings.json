@@ -7,8 +7,8 @@ vv{
   },
   "server": {ishant8574.aternos.me
     
-    "ip "ishnt8574.aternos.me
-    "port": 27228,
+    "ip "ishnat8574-smp.aternos.me
+    "port": 53343,
     "version": "26.2",
     "try-creative": false
   },
@@ -42,7 +42,7 @@ vv{
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
   },
-  "movement": {
+  "movement": {true}
     "enabled": true,
     
     "circle-walk": {
